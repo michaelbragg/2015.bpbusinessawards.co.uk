@@ -1,4 +1,5 @@
 ---
+published: false
 layout: archive-judges
 stylesheet:
 class: page__judges
