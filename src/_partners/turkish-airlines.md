@@ -8,7 +8,7 @@ tags: 'partnership'
 website: http://www.turkishairlines.com
 
 hero:
-  image: ceremony-01
+  image: "2014-evening"
 
 images:
  logo: logo_turkish-airlines.svg

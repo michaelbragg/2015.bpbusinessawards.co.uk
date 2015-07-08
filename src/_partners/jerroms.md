@@ -8,7 +8,7 @@ tags: 'supporter'
 website: http://www.jerrom.co.uk/
 
 hero:
-  image: ceremony-01
+  image: "2014-evening"
 
 images:
  logo: logo_jerroms.svg

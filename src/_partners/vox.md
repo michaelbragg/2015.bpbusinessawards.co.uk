@@ -1,4 +1,5 @@
 ---
+published: false
 layout: single-partner
 stylesheet:
 class: page__partners
@@ -8,7 +9,7 @@ tags: 'supporter'
 website: http://www.thevoxcentre.co.uk/
 
 hero:
-  image: ceremony-01
+  image: "2014-evening"
 
 images:
  logo: logo_vox.svg
