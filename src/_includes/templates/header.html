@@ -1,0 +1,34 @@
+<header class="header__main fixed cf">
+  <div class="wrapper__sub">
+
+    <a class="header__brand header__left" href="{{ site.url }}/">
+      <img class="" src="{{ site.static }}/gui/logo_birmingham-post-business-awards.png" alt="{{ site.name }}" style="">
+    </a>
+
+    <nav role="navigation" class="nav__main">
+
+      <a href="#nav-footer" class="navicon navicon__right ls-hidden">Menu</a>
+
+      <ul id="js-nav__main" class="nav__main__right list menu">
+      {% include templates/navigation.html %}
+      </ul>
+
+    </nav>
+
+  </div>
+</header>
+
+{% if page.hero %}
+<section class="hero wrapper box__large{% if page.hero.image %} hero--image{% endif %}" {% if page.hero.image %}style="background-image: url({{ site.media }}/hero/hero_{{ page.hero.image }}.jpg);"{% endif %}>
+
+  <section class="wrapper__sub">
+
+    <div class="hero__content">
+      {% if page.hero.copy %}<p class="hero__copy gamma">{{ page.hero.copy }}</p>{% endif %}
+      {% if page.hero.btn %}<a class="hero__btn btn btn--primary" href="{{ page.hero.btn.link}}">{{ page.hero.btn.copy }}</a>{% endif %}
+    </div>
+
+  </section>
+
+</section>
+{% endif %}

@@ -1,0 +1,34 @@
+# Birmingham Post Business Awards 2015
+
+## Server
+
+.env
+vendor
+
+## NodeJS
+
+node_modules/
+npm-debug.log
+
+## Ruby
+
+.bundle
+
+##  Jekyll
+
+_site/
+beta/
+2015/
+
+## Bower
+
+src/_includes/bower_components/
+
+##  Site
+
+src/static/css/*.css
+src/_includes/css/*.css
+
+##  API
+
+src/nominate/
