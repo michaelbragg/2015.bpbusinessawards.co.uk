@@ -4,7 +4,7 @@ stylesheet:
 class: page__partners
 
 title: Turkish Airlines
-tags: 'partnership'
+tags: 'association'
 website: http://www.turkishairlines.com
 
 hero:
