@@ -6,19 +6,19 @@
 
     <section class="grid ss1-ss4 ms1-6 ls1-ls4">
     {% for partner in site.partners %}
-<!--      <h3 class="gamma heading--main">In association with:</h3>
 
       {% if partner.tags == 'association' %}
-         <a href="{{ site.url }}{{ partner.url }}">
-            <img class="image__responsive" src="{{ site.media }}/partners/{{ partner.images.logo }}" alt="{{ partner.title }}">
-          </a>
+        <h3 class="gamma heading--main">In association with:</h3>
+        <a href="{{ site.url }}{{ partner.url }}">
+          <img class="image__responsive" src="{{ site.media }}/partners/{{ partner.images.logo }}" alt="{{ partner.title }}">
+        </a>
       {% endif %}
--->
+
       {% if partner.tags == 'partnership' %}
-      <h3 class="gamma heading--main">In partnership with:</h3>
+<!--      <h3 class="gamma heading--main">In partnership with:</h3>
         <a href="{{ site.url }}{{ partner.url }}">
             <img class="image__responsive" src="{{ site.media }}/partners/{{ partner.images.logo }}" alt="{{ partner.title }}">
-          </a>
+          </a>-->
       {% endif %}
 
     {% endfor %}
