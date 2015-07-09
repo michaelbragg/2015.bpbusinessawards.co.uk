@@ -31,4 +31,5 @@ src/_includes/css/*.css
 
 ##  API
 
-src/nominate/
+/src/nominate/*
+!/src/nominate/index.php
