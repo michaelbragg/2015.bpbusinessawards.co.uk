@@ -21,7 +21,7 @@ sitemap:
   exclude: false
 ---
 {% if site.nominate %}
-{% raw  %}<?php include HOME . '/' . $page; ?>{% endraw %}
+{% raw  %}<?php include $_SERVER['DOCUMENT_ROOT'] . '/bpbusinessawards.co.uk/nominate/v1/' . $page; ?>{% endraw %}
 {% else %}
 <p>Nominations have now closed. Stay tuned for the shortlist to be announced.</p>
 {% endif %}

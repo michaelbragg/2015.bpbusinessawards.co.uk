@@ -28,8 +28,3 @@ src/_includes/bower_components/
 
 src/static/css/*.css
 src/_includes/css/*.css
-
-##  API
-
-/src/nominate/*
-!/src/nominate/index.php
