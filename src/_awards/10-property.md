@@ -4,7 +4,7 @@ permalink: categories/property/
 stylesheet:
 class: page__home
 
-title: Property, including Regeneration
+title: Property and Regeneration
 
 description:
 

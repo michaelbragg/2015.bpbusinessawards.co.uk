@@ -4,7 +4,7 @@ permalink: categories/legal/
 stylesheet:
 class: page__home
 
-title: Legal, including Business Advisory
+title: Legal
 
 description:
 
