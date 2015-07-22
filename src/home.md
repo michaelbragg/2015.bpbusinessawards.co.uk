@@ -5,7 +5,7 @@ class: page__home
 
 permalink: /
 
-title: "View the highlights from BPBA14"
+title: "Birmingham, the engine of UK growth"
 
 meta:
   keywords:
