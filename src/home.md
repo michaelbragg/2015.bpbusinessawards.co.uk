@@ -5,7 +5,7 @@ class: page__home
 
 permalink: /
 
-title: Celebrate your success in&nbsp;business with the&nbsp;Birmingham&nbsp;Post
+title: "View the highlights from BPBA14"
 
 meta:
   keywords:
@@ -33,11 +33,13 @@ sitemap:
   exclude: false
 ---
 
-Birmingham Post Editor in Chief Marc Reeves has urged companies in the region to get nominating.
+## Birmingham Post Editor in Chief Marc Reeves has urged companies in the region to get nominating.
+
+<img class="alignright sizemedium image" src="{{ site.media }}/judges/judge_marc-reeves.jpg" alt="">
 
 &ldquo;The economic resurgence in Birmingham is gaining pace and that is largely driven by the creativity and enterprise of the businesses in our region. That is something we should be proud of and celebrate.
 We want firms of all sizes to nominate themselves so we can shout about the success stories that make this a thriving region with lots of reasons to be optimistic about the future.
 This year&rsquo;s business awards will without question be the biggest ever. There are so many stories out there to be proud of, so share them with us.&rdquo;
 
-Marc Reeves - Editor in Chief
+**Marc Reeves - Editor in Chief**
 
