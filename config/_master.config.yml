@@ -1,0 +1,72 @@
+# _config.yml
+
+# Server Config
+
+safe: true
+
+source: ./src
+destination: ./2015
+safe: true
+
+timezone: Europe/London
+encoding: "utf-8"
+
+future: false
+
+## Collections
+
+collections:
+  awards:
+    output: true
+    permalink: /categories/:path/
+  partners:
+    output: true
+    permalink: /partners/:path/
+  judges:
+    output: true
+    permalink: /judges/:path/
+
+## Conversion
+
+markdown: kramdown
+highlighter: pygments
+lsi: false
+excerpt_separator: "\n\n"
+
+## Backwards-compatibility
+
+relative_permalinks: false
+
+# Site Config
+
+name: Birmingham Post Business Awards 2015
+
+url: //www.bpbusinessawards.co.uk/2015
+static: //www.bpbusinessawards.co.uk/2015/static
+media: //www.bpbusinessawards.co.uk/2015/media
+api: //www.bpbusinessawards.co.uk/api
+
+nominate: true # (Bool) false = closed | true = open
+
+## Analytics
+
+google_analytics_id: UA-9406284-3
+
+## Meta
+
+meta:
+  author: author
+  description: "The Birmingham Post is celebrating the resilience and fortitude of business and industries in Birmingham, West Midlands. Nominate your business for a award."
+  keywords:
+    - "birmingham post business awards"
+    - "midlands business awards"
+    - "industry awards"
+    - "awards"
+    - "nominate"
+    - "birmingham"
+    - "birmingham business"
+    - "business awards"
+    - "business startup"
+    - "small business"
+    - "sponsor awards"
+    - "increase publicity"
