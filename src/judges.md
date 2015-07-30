@@ -1,5 +1,4 @@
 ---
-published: false
 layout: archive-judges
 stylesheet:
 class: page__judges
@@ -26,4 +25,4 @@ sitemap:
   changefreq: weekly
   exclude:
 ---
-**To be announced soon**
+The 2015 Birmingham Post Business Awards judges are:
