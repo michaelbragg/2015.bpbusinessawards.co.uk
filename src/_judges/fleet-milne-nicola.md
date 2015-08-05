@@ -24,8 +24,12 @@ sitemap:
   exclude: false
 ---
 
-One of the city&rsquo;s best-known entrepreneurs, Nicola Fleet-Milne has developed agency FleetMilne Property into an established city operation over the past decade.
+One of Birmingham&rsquo;s best-known entrepreneurs, Nicola Fleet-Milne has developed FleetMilne Property over the past decade into an established and highly successful city&nbsp;operation.
+​​
+From day one Nicola has always been the ambition behind the FleetMilne brand. She spends her time networking, driving the brand forward and setting up relationships across the city making sure everyone is aware of the influence and data FleetMilne have in the world of residential&nbsp;property.
 
-She has also long been involved with professional services body BPS Birmingham, going back to its days as Birmingham Forward.
+Nicola has long been involved with the professional services membership body BPS&nbsp;Birmingham where she is currently the Relationship Director. She is also one of the board members at Colmore&nbsp;BID, a trustee of the Birmingham&nbsp;Hippodrome Development&nbsp;Trust​ and the Chair of the Jewellery&nbsp;Quarter Neighbourhood&nbsp;Plan.
 
-A sworn city girl, she is also one of the board members at Colmore BID, a trustee of The Birmingham Hippodrome and has long been a mentor to younger talent.
+During her time in Birmingham, Nicola has also won a number of personal awards including Birmingham Young Professional of the Year (Entrepreneur category) and the Institute of Director&rsquo;s Emerging Talent award&nbsp;in&nbsp;2007.
+
+To cap it, Nicola is a sworn city girl​, a die hard Jewellery Quarter fan, and part of a&nbsp;winning netball&nbsp;team.
