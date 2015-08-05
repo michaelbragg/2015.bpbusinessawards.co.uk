@@ -21,3 +21,4 @@ sitemap:
   changefreq: monthly
   exclude: false
 ---
+Birmingham Airport sits in the centre of the UK and is the most accessible airport by road and rail, with 20 million people living within the 90 minute catchment. Just 10 minutes to the centre of Birmingham and an hour to London by train, it serves almost ten million people a year, travelling with 50 airlines to 140 direct destinations, including daily flights to New York, Delhi, Istanbul, Dubai, Paris and Frankfurt.
