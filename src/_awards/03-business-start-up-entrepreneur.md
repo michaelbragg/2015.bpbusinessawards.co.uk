@@ -38,7 +38,7 @@ This award is to recognise new businesses making a significant, positive impact 
 We will accept nominations from any company meeting the following criteria:
 
 - Based in the West Midlands
-- Began trading after 1<sup>st</sup> April 2013 (i.e companies less than 2 years old)
+- Began trading after 1<sup>st</sup> April 2013 (i.e companies less than two years old)
 - The sponsor of this award cannot enter this category
 
 ## Judging Criteria

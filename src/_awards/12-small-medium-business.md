@@ -4,7 +4,7 @@ permalink: categories/small-medium-business/
 stylesheet:
 class: page__home
 
-title: Small and Medium sized Business
+title: Small and Medium-sized Business
 
 description:
 
@@ -30,15 +30,15 @@ sitemap:
   changefreq: monthly
   exclude: false
 ---
-This category recognises small to medium businesses who are encouraging growth and development of their employees.
+This category recognises small and medium-sized businesses which are encouraging growth and development of their employees.
 
 ## Eligibility
 
 We will accept nominations from any company meeting the following criteria:
 
 - Based in the West Midlands region
-- Trading for more than 2 years
-- Employs fewer than 100 permanent staff
+- Trading for more than two years
+- Employs fewer than 100 permanent members of staff
 - The competition is not open to the sponsor of this award
 
 

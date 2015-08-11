@@ -30,7 +30,7 @@ sitemap:
   changefreq: monthly
   exclude: false
 ---
-This category recognises companies working in a legal capacity with other businesses, offering them support and advice.
+This category recognises firms working in a legal capacity with other businesses, offering them support and advice.
 
 ## Eligibility
 

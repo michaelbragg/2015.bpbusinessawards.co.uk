@@ -48,7 +48,7 @@ The judges will pay particular attention to:
 - Provide selfless support to charity or other bodies
 - Promoting the region
 - Industry recognition, accreditation and accolades
-- Commitment to Customer Service, supported by testimonials
+- Commitment to customer service, supported by testimonials
 
 ## General
 

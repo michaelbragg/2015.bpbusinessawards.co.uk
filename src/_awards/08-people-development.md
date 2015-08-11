@@ -30,7 +30,7 @@ sitemap:
   changefreq: monthly
   exclude: false
 ---
-This award is to recognise, encourage and reward organisations that make a significant contribution to Training, Development and Recruitment. The continuous training and development could be of their own workforce, or the provision of training and development services within the wider community.
+This award is to recognise, encourage and reward organisations that make a significant contribution to training, development and recruitment. The continuous training and development could be of their own workforce, or the provision of training and development services within the wider community.
 
 ## Eligibility
 

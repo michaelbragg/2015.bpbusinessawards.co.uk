@@ -30,7 +30,7 @@ sitemap:
   changefreq: monthly
   exclude: false
 ---
-This category is to recognise excellence in one of the regions&rsquo; key sectors, Manufacturing.  It is designed to reward not just growth but market leading vision and clear strategy.
+This category is to recognise excellence in one of the regions&rsquo;s key sectors, manufacturing.  It is designed to reward not just growth but market leading vision and clear strategy.
 
 ## Eligibility
 
