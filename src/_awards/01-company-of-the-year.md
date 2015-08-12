@@ -36,14 +36,7 @@ This category recognises a company who has excelled in their field of expertise,
 
 This award aims to find the overall outstanding company from all of the category winners plus companies that do not fall into any other category.
 
-We will accept nominations for any company meeting the following criteria:
-
-- Have not entered any other category
-- Able to show industry recognition, accreditation and accolades
-- Able to show commitment to customer service by testimonials
-- Basted in the West Midlands
-- Trading for more then two years
-- Not open to any sponsor of the Birmingham Post Business Awards 2015
+Nominations cannot be made for this category. The judges will choose a winner from category winners and consider other companies that they feel do not fall into another category.
 
 ## Judging Criteria
 
