@@ -16,8 +16,8 @@ hero:
   image: "2014-evening"
   copy: "Celebrate your success in&nbsp;business with&nbsp;the Birmingham&nbsp;Post"
   btn:
-   copy: Nominate Now
-   link: nominate/
+#   copy: Nominate Now
+#   link: nominate/
 
 video:
  poster: http://s3.mirror.co.uk/midlands/bpbusinessawards/birmingham-post-business-awards-2014.jpg

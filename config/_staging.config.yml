@@ -46,7 +46,7 @@ static: //www.bpbusinessawards.co.uk/beta/static
 media: //www.bpbusinessawards.co.uk/beta/media
 api: //www.bpbusinessawards.co.uk/api
 
-nominate: true # (Bool) false = closed | true = open
+nominate: false # (Bool) false = closed | true = open
 
 ## Analytics
 

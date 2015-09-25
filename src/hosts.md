@@ -15,8 +15,8 @@ hero:
   image: "2014-room"
   copy: "Celebrate your success in&nbsp;business with&nbsp;the Birmingham&nbsp;Post"
   btn:
-   copy: Nominate Now
-   link: nominate/
+#   copy: Nominate Now
+#   link: nominate/
 
 partners: true
 
