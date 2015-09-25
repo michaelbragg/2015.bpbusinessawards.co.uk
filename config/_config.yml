@@ -46,7 +46,7 @@ static: http://localhost/bpbusinessawards/static
 media: http://localhost/bpbusinessawards/media
 api: http://localhost/bpbusinessawards.co.uk/api
 
-nominate: true # (Bool) false = closed | true = open
+nominate: false # (Bool) false = closed | true = open
 
 ## Analytics
 
