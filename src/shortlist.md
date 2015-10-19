@@ -20,8 +20,8 @@ hero:
 partners: true
 
 sitemap:
-  lastmod: 2015-07-20
+  lastmod: 2015-10-19
   priority: 0.7
   changefreq: weekly
-  exclude: true
+  exclude: false
 ---

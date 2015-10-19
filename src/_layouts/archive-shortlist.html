@@ -10,7 +10,7 @@ layout: columns-two
 
     {% if site.data.results %}
       <ul class="list">
-        {% for category in site.data.shortlist %}
+        {% for category in site.data.results %}
           <li class="box">
           <h3>{{ category.awards.name }}</h3>
           {% for company in category.awards.shortlist %}
@@ -22,7 +22,6 @@ layout: columns-two
           {% endfor %}
           </li>
         {% endfor %}
-
       </ul>
       {% endif %}
 
