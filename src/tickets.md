@@ -29,7 +29,7 @@ sitemap:
 
 ## Single Ticket £110 <small>+VAT</small>
 
-## Table Ticket £779 <small>+VAT</small>
+## Table Ticket £995 <small>+VAT</small>
 
 To book tickets or a table please return the form below with your remittance to Millie&nbsp;Walker, (Ref: TableBPBA), Trinity&nbsp;Mirror&nbsp;Midlands, Floor&nbsp;6, Fort&nbsp;Dunlop, Fort&nbsp;Parkway, Birmingham, B24&nbsp;9FF.
 
