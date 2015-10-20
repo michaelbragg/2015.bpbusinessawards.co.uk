@@ -14,13 +14,13 @@ hero:
   image: "2014-room"
   copy: "Celebrate your success in&nbsp;business with&nbsp;the Birmingham&nbsp;Post"
   btn:
-#   copy: Nominate Now
-#   link: nominate/
+   copy: Book Your Table Today
+   link: tickets/
 
 partners: true
 
 sitemap:
-  lastmod: 2015-10-19
+  lastmod: 2015-10-20
   priority: 0.7
   changefreq: weekly
   exclude: false
