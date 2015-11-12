@@ -15,7 +15,7 @@ hero:
   copy: "Celebrate your success in&nbsp;business with&nbsp;the Birmingham&nbsp;Post"
   btn:
    copy: View Our Event Table Plan
-   link: http://www.bpbusinessawards.co.uk/2015/media/documents/table-plan-v1.pdf
+   link: http://www.bpbusinessawards.co.uk/2015/media/documents/table-plan-v2.pdf
 
 partners: true
 
