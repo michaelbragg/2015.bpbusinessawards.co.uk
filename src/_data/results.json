@@ -1,7 +1,27 @@
 [
   {
     "awards": {
+      "name": "Company of the Year",
+      "winners": [
+        "Fracino"
+      ]
+    }
+  },
+  {
+    "awards": {
+      "name": "Lifetime Achievement",
+      "winners": [
+        "Paul Dransfield - Grand Central",
+        "Chris Montgomery - Grand Central"
+      ]
+    }
+  },
+  {
+    "awards": {
       "name": "Business Start Up and Entrepreneur",
+      "winners": [
+        "Escape Live"
+      ],
       "shortlist": [
         "Escape Live",
         "Story Comms",
@@ -12,6 +32,9 @@
   {
     "awards": {
       "name": "Creative, Communications and Digital",
+      "winners": [
+        "Oakley Wilkinson Bryan (OWB)"
+      ],
       "shortlist": [
         "Clive Reeves Public Relations",
         "Encore Communications",
@@ -22,6 +45,9 @@
   {
     "awards": {
       "name": "Export",
+      "winners": [
+        "Fracino"
+      ],
       "shortlist": [
         "Clamason Industried Limited",
         "Crofts and Assinder",
@@ -33,6 +59,9 @@
   {
     "awards": {
       "name": "Finance",
+      "winners": [
+        "Catalyst Corporate Finance"
+      ],
       "shortlist": [
         "Catalyst Corporate Finance",
         "Nicklin LLP",
@@ -43,6 +72,9 @@
   {
     "awards": {
       "name": "Legal",
+      "winners": [
+        "Weightmans LLP"
+      ],
       "shortlist": [
         "Browne Jacobson",
         "DWF",
@@ -53,6 +85,9 @@
   {
     "awards": {
       "name": "Manufacturing",
+      "winners": [
+        "I2R Packaging Solutions"
+      ],
       "shortlist": [
         "Contechs",
         "Exol Lubricants",
@@ -63,6 +98,9 @@
   {
     "awards": {
       "name": "Outstanding Professional",
+      "winners": [
+        "Alan Lusty - Adi Group"
+      ],
       "shortlist": [
       "Alan Lusty – Adi Group",
       "Katie Kershaw – Node Urban Design",
@@ -73,6 +111,9 @@
   {
     "awards": {
       "name": "People Development",
+      "winners": [
+        "Adi Group"
+      ],
       "shortlist": [
         "Adi Group",
         "Creative Alliance",
@@ -83,6 +124,9 @@
   {
     "awards": {
       "name": "Property",
+      "winners": [
+        "O&rsquo;Brien Contractors Ltd"
+      ],
       "shortlist": [
         "Hamer Associates Ltd",
         "Node Urban Design",
@@ -93,6 +137,9 @@
   {
     "awards": {
       "name": "Small and Medium Enterprise",
+      "winners": [
+        "Evolve"
+      ],
       "shortlist": [
         "Airband Community Internet Ltd",
         "Evolve",

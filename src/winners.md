@@ -14,13 +14,13 @@ hero:
   image: "2014-room"
   copy: "Celebrate your success in&nbsp;business with&nbsp;the Birmingham&nbsp;Post"
   btn:
-   copy: "Order Your Photos"
-   link: http://birminghamcoventrymidlands.newsprints.co.uk/
+   copy: View Our Winners
+   link: http://www.bpbusinessawards.co.uk/2015/winners/
 
 partners: true
 
 sitemap:
-  lastmod: 2015-07-20
+  lastmod: 2015-11-13
   priority: 0.7
   changefreq: weekly
   exclude: true
