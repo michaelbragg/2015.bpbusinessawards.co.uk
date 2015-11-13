@@ -16,8 +16,8 @@ hero:
   image: "2014-evening"
   copy: "Celebrate your success in&nbsp;business with&nbsp;the Birmingham&nbsp;Post"
   btn:
-   copy: View Our Event Table Plan
-   link: http://www.bpbusinessawards.co.uk/2015/media/documents/table-plan-v2.pdf
+   copy: View Our Winners
+   link: http://www.bpbusinessawards.co.uk/2015/winners/
 
 video:
  poster: http://s3.mirror.co.uk/midlands/bpbusinessawards/birmingham-post-business-awards-2014.jpg
@@ -27,7 +27,7 @@ video:
 partners: true
 
 sitemap:
-  lastmod: 2015-10-20
+  lastmod: 2015-11-13
   priority: 0.7
   changefreq: weekly
   exclude: false
